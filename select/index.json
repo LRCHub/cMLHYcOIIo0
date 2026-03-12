@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "レモネード",
+  "base_artist": "wotaku",
+  "createdAt": "2026-03-12T15:48:15.999458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピンク レモネード",
+      "artist": "Closure in Moscow",
+      "has_synced": true,
+      "path": "select/01_ピンク_レモネード_Closure_in_Moscow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レモネード",
+      "artist": "ZOMBIE-CHANG",
+      "has_synced": true,
+      "path": "select/02_レモネード_ZOMBIE-CHANG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レモネード",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/03_レモネード_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "レモネード",
+      "artist": "MANNISH BOYS",
+      "has_synced": true,
+      "path": "select/04_レモネード_MANNISH_BOYS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レモネード (feat. 初音ミク)",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_レモネード_(feat._初音ミク)_wotaku.txt"
+    }
+  ]
+}
